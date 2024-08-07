@@ -10,7 +10,7 @@
     "examples": "eslint --rulesdir src --no-ignore --fix-dry-run --format json --report-unused-disable-directives examples --ext .js,.ts,.vue,.md"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "7.23.10",
+    "@babel/eslint-parser": "7.24.8",
     "@babel/plugin-syntax-import-attributes": "7.23.3",
     "@babel/plugin-transform-flow-strip-types": "7.23.3",
     "@typescript-eslint/parser": "6.21.0",
